@@ -2,7 +2,6 @@
 #### I am a systems engineering student at the Universidad del Valle.
 ##### Passionate about programming and computer science.
 
-Here are some ideas to get you started:
 
 - 🔭 I like programing 
 - 🌱 I'm learning advance english 
